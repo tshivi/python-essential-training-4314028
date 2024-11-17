@@ -17,3 +17,12 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/python-essential-training-18764650?dApp=59033956
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQHBQo3TSa3IUg/learning-public-crop_675_1200/0/1674513192001?e=2147483647&v=beta&t=YWS_o8SlM4I6YEzJwQnAIP8Q0kfvzX3QbqA7Avrg7K8
+
+### Student
+
+Tshivi
+
+IT professional & BA
+
+Thanks Rayan for sharing 
+im going to use this for my pratical case 
